@@ -1,6 +1,5 @@
-## Hi there 👋
+## Boas vindas ao meu repositório  👋
 
-## https://github.com/JulioLDS/STMusic
 <!--
 **august0l0thar/august0l0thar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
