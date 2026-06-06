@@ -1,16 +1,46 @@
-## Boas vindas ao meu repositório  👋
+<img align="right" height="200" src="https://github.com/user-attachments/assets/3ef000ec-52db-462d-9db0-b7123d1282b2" />
 
-<!--
-**august0l0thar/august0l0thar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Augusto+Lothar;Desenvolvedor+Backend;Analista+de+Sistemas)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Sou técnico em Desenvolvimento de Sistemas pela Etec, estou no último ano do curso tecnólogo de Análise e Desenvolvimento de Sistemas pela Fatec.         
+
+### Tecnologias
+
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="js" height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="node-js" height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
+  <img align="center" alt="mongo-db" height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+  <img align="center" alt="postgresql" height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  <img align="center" alt="supabase" height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" />
+  <img align="center" alt="java" height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img align="center" alt="flutter" height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
+  <img align="center" alt="dart" height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />        
+  <img align="center" alt="node-js" height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>  
+  <img align="center" alt="node-js" height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
+</div>
+
+#
+
+<br>
+<img align="right"  height="200" alt="no-finalzinho-vem-um-negocinho" src="https://github.com/user-attachments/assets/bce3d749-705f-4062-8735-372ce47bdbc4" />
+
+<div>
+  <a href="https://www.linkedin.com/in/augusto-lothar-a0316b349" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:augustolothar@gmail.com" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
+  <a href="https://wa.me/5511980510484?text=Oi%20gatinho!%20Quero%20saber%20mais%20sobre%20seu%20trabalho!" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"/><a/>
+  <a href="https://www.instagram.com/augusto_lothar/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/instagram-gray?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/></a>
+  <a href="tel:5511980510484" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/celular-white?style=for-the-badge&logo=phone&logoColor=black" target="_blank"/></a>
+</div>
+
+
+
+
+<br>
+
+<div>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=august0l0thar&theme=great-gatsby&hide_border=true&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D&background=45%2C000000%2C5F0909&dates=EB2D24" alt="GitHub Streak" /></a>
+</div>
