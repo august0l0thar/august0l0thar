@@ -26,7 +26,7 @@ Sou técnico em Desenvolvimento de Sistemas pela Etec, estou no último ano do c
 #
 
 <br>
-<img align="right"  height="200" alt="no-finalzinho-vem-um-negocinho" src="https://github.com/user-attachments/assets/bce3d749-705f-4062-8735-372ce47bdbc4" />
+
 
 <div>
   <a href="https://www.linkedin.com/in/augusto-lothar-a0316b349" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -36,11 +36,10 @@ Sou técnico em Desenvolvimento de Sistemas pela Etec, estou no último ano do c
   <a href="tel:5511980510484" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/celular-white?style=for-the-badge&logo=phone&logoColor=black" target="_blank"/></a>
 </div>
 
-
-
-
 <br>
 
-<div>
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=august0l0thar&theme=great-gatsby&hide_border=true&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D&background=45%2C000000%2C5F0909&dates=EB2D24" alt="GitHub Streak" /></a>
+<div align="center" >
+  <img align="left" style="margin: 0px 10px 0px 10px" src="https://streak-stats.demolab.com?user=august0l0thar&theme=great-gatsby&hide_border=true&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D&background=45%2C000000%2C5F0909&dates=EB2D24" alt="GitHub Streak" />
+
+  <img align="right" style="margin: 0px 10px 0px 10px" height="180" alt="no-finalzinho-vem-um-negocinho" src="https://github.com/user-attachments/assets/bce3d749-705f-4062-8735-372ce47bdbc4" />
 </div>
