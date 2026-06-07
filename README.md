@@ -43,3 +43,5 @@ Sou técnico em Desenvolvimento de Sistemas pela Etec, estou no último ano do c
 
   <img align="right" style="margin: 0px 10px 0px 10px" height="180" alt="no-finalzinho-vem-um-negocinho" src="https://github.com/user-attachments/assets/bce3d749-705f-4062-8735-372ce47bdbc4" />
 </div>
+
+![snake gif](https://github.com/august0l0thar/august0l0thar/blob/output/github-snake-dark.svg)
